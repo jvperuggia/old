@@ -22,7 +22,7 @@ Passos para configurar o ambiente e rodar os testes:
 
 	3.1 - src/test/java > tests
 
-	3.2 - Cenários: "Cenario_Realizar" e "Cenario_RealizarCadastro_emailJaCadastrado"
+	3.2 - Cenários: "Cenario_RealizarCadastro" e "Cenario_RealizarCadastro_emailJaCadastrado"
 
 4 - Tendo aberto o cenário desejado, acionar o botão Execução no menu e clicar em "Run As" > "JUnit Test". 
 Outra maneira de executar é posicionar o ponteiro sobre o códido e acionar o comando: "Alt+Shift+X,T" 
