@@ -1,33 +1,29 @@
-DESCRIÇÃO: Realizar Cadastro Com Sucesso
-NO PAPEL DE usuário  
+1 - DESCRIÃ‡ÃƒO: Realizar Cadastro Com Sucesso
+NO PAPEL DEÂ usuÃ¡rioÂ  
 EU QUERO/PRECISO cadastrar uma conta 
-PARA  fazer login. 
+PARAÂ  fazer login.Â 
 
-Cadastro com Sucesso
-Deve ser informado um email válido E ainda não cadastrado 
-Os campos indicados como obrigatórios devem ser preenchidos com dados válidos
+Deve ser informado um email vÃ¡lido E ainda nÃ£o cadastrado 
+Os campos indicados como obrigatÃ³rios devem ser preenchidos com dados vÃ¡lidos
 No final do cadastro deve ser verificado se a mensagem de cadastro com sucesso foi exibida
 
 
 
-DESCRIÇÃO: Realizar Cadastro - Email Já cadastrado
+2 - DESCRIÃ‡ÃƒO: Realizar Cadastro - Email JÃ¡ cadastrado
 
-NO PAPEL DE usuário  
-EU QUERO/PRECISO cadastrar uma conta informando um email já cadastrado
-PARA  validar que não é possível realizar cadastro com email repetido. 
+NO PAPEL DEÂ usuÃ¡rioÂ  
+EU QUERO/PRECISO cadastrar uma conta informando um email jÃ¡ cadastrado
+PARAÂ  validar que nÃ£o Ã© possÃ­vel realizar cadastro com email repetido.Â 
 
-Deve ser informado um email já cadastrado 
-
-
+Deve ser informado um email jÃ¡ cadastrado 
 
 
 
+3 - DESCRIÃ‡ÃƒO: Realizar Cadastro - Email InvÃ¡lido
 
-DESCRIÇÃO: Realizar Cadastro - Email Inválido
+NO PAPEL DEÂ usuÃ¡rioÂ  
+EU QUERO/PRECISO cadastrar uma conta informando um email invÃ¡lido
+PARAÂ  validar que nÃ£o Ã© possÃ­vel realizar cadastro com email invÃ¡lido.Â 
 
-NO PAPEL DE usuário  
-EU QUERO/PRECISO cadastrar uma conta informando um email inválido
-PARA  validar que não é possível realizar cadastro com email inválido. 
-
-Caso seja informado um email inválido o sistema deve exibir uma mensagem informando.
+Caso seja informado um email invÃ¡lido o sistema deve exibir uma mensagem informando.
 
