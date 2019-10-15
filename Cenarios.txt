@@ -15,7 +15,7 @@ NO PAPEL DE usuário 
 EU QUERO/PRECISO cadastrar uma conta informando um email já cadastrado
 PARA  validar que não é possível realizar cadastro com email repetido. 
 
-Deve ser informado um email já cadastrado 
+Deve ser informado um email já cadastrado e o sistema deve exibir a mensagem informando.
 
 
 
@@ -25,5 +25,5 @@ NO PAPEL DE usuário 
 EU QUERO/PRECISO cadastrar uma conta informando um email inválido
 PARA  validar que não é possível realizar cadastro com email inválido. 
 
-Caso seja informado um email inválido o sistema deve exibir uma mensagem informando.
+Deve ser informado um email inválido e o sistema deve exibir uma mensagem informando.
 
